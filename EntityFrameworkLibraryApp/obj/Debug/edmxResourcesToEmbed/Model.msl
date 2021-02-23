@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LibraryModelStoreContainer" CdmEntityContainer="LibraryEntities">
+    <EntitySetMapping Name="Authors">
+      <EntityTypeMapping TypeName="LibraryModel.Authors">
+        <MappingFragment StoreEntitySet="Authors">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+          <ScalarProperty Name="CountryId" ColumnName="CountryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="LibraryModel.Books">
+        <MappingFragment StoreEntitySet="Books">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Pages" ColumnName="Pages" />
+          <ScalarProperty Name="AuthorId" ColumnName="AuthorId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Countries">
+      <EntityTypeMapping TypeName="LibraryModel.Countries">
+        <MappingFragment StoreEntitySet="Countries">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="method1ReturnBooks" FunctionName="LibraryModel.Store.method1ReturnBooks" />
+    <FunctionImportMapping FunctionImportName="method2ReturnBooks" FunctionName="LibraryModel.Store.method2ReturnBooks" />
+    <FunctionImportMapping FunctionImportName="method3ReturnsBooks" FunctionName="LibraryModel.Store.method3ReturnsBooks" />
+    <FunctionImportMapping FunctionImportName="method4ReturnBooks" FunctionName="LibraryModel.Store.method4ReturnBooks" />
+    <FunctionImportMapping FunctionImportName="method5ReturnBooks" FunctionName="LibraryModel.Store.method5ReturnBooks" />
+    <FunctionImportMapping FunctionImportName="method6ReturnBooks" FunctionName="LibraryModel.Store.method6ReturnBooks" />
+    <FunctionImportMapping FunctionImportName="method7ReturnAuthor" FunctionName="LibraryModel.Store.method7ReturnAuthor" />
+    <FunctionImportMapping FunctionImportName="method8ReturnCountry" FunctionName="LibraryModel.Store.method8ReturnCountry" />
+  </EntityContainerMapping>
+</Mapping>

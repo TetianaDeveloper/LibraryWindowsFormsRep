@@ -1,0 +1,12 @@
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\bin\Debug\EntityFrameworkLibraryApp.exe.config
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\bin\Debug\EntityFrameworkLibraryApp.exe
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\bin\Debug\EntityFrameworkLibraryApp.pdb
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\bin\Debug\EntityFramework.dll
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\bin\Debug\EntityFramework.xml
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\obj\Debug\EntityFrameworkLibraryApp.Form1.resources
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\obj\Debug\EntityFrameworkLibraryApp.Properties.Resources.resources
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\obj\Debug\EntityFrameworkLibraryApp.csproj.GenerateResource.cache
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\obj\Debug\EntityFrameworkLibraryApp.csproj.CoreCompileInputs.cache
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\obj\Debug\EntityFrameworkLibraryApp.csproj.CopyComplete
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\obj\Debug\EntityFrameworkLibraryApp.exe
+E:\Arbeit\Домашня робота\EntityFrameworkLibraryApp\EntityFrameworkLibraryApp\obj\Debug\EntityFrameworkLibraryApp.pdb
